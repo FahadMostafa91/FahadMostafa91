@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FahadMostafa91
+- 👋 Hi, I’m Fahad from TEXAS TECH.
 - 👀 I’m interested in Applied Mathematics/ Machine Learning/ Data Science 
 - 🌱 I’m currently learning Machine Learning and Statistics 
 - 💞️ I’m looking to collaborate on Academic Research Projects 
