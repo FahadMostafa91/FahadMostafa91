@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fahad from TEXAS TECH.
-- 👀 I’m interested in Applied Mathematics/ Machine Learning/ Data Science 
+- 👀 I’m interested in Optimization / Machine Learning/ Statistics 
 - 🌱 I’m currently learning Machine Learning and Statistics 
 - 💞️ I’m looking to collaborate on Academic Research Projects 
 - 📫 How to reach me? thru my Email: fahad.mostafa@ttu.edu
